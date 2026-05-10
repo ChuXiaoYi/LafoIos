@@ -7,11 +7,14 @@
 - 隐私政策页面草稿：`docs/legal/privacy-policy.md`
 - 用户协议页面草稿：`docs/legal/terms-of-use.md`
 - 医疗免责声明页面草稿：`docs/legal/medical-disclaimer.md`
-- 隐私政策公网 URL：`https://chuxiaoyi.github.io/LafoIos/privacy-policy.html`
-- 用户协议公网 URL：`https://chuxiaoyi.github.io/LafoIos/terms-of-use.html`
-- 医疗免责声明公网 URL：`https://chuxiaoyi.github.io/LafoIos/medical-disclaimer.html`
+- 隐私政策当前可用公网 URL：`https://cdn.jsdelivr.net/gh/ChuXiaoYi/LafoIos@main/docs/legal/privacy-policy.md`
+- 用户协议当前可用公网 URL：`https://cdn.jsdelivr.net/gh/ChuXiaoYi/LafoIos@main/docs/legal/terms-of-use.md`
+- 医疗免责声明当前可用公网 URL：`https://cdn.jsdelivr.net/gh/ChuXiaoYi/LafoIos@main/docs/legal/medical-disclaimer.md`
+- GitHub Pages 预期 URL：`https://chuxiaoyi.github.io/LafoIos/privacy-policy.html`
+- GitHub Pages 预期 URL：`https://chuxiaoyi.github.io/LafoIos/terms-of-use.html`
+- GitHub Pages 预期 URL：`https://chuxiaoyi.github.io/LafoIos/medical-disclaimer.html`
 
-上架前需要等待 GitHub Pages workflow 部署完成，再访问上面的 URL 做最终确认。
+当前 jsDelivr CDN URL 已公开可访问，可先用于 App Store Connect。GitHub Pages URL 需要在仓库 Settings -> Pages 中启用 `gh-pages` 分支后才会生效。
 
 ## 当前合规边界
 
@@ -25,7 +28,7 @@
 
 ## 上架前需要填写
 
-- Privacy Policy URL：`https://chuxiaoyi.github.io/LafoIos/privacy-policy.html`
-- Terms of Use URL：`https://chuxiaoyi.github.io/LafoIos/terms-of-use.html`
+- Privacy Policy URL：`https://cdn.jsdelivr.net/gh/ChuXiaoYi/LafoIos@main/docs/legal/privacy-policy.md`
+- Terms of Use URL：`https://cdn.jsdelivr.net/gh/ChuXiaoYi/LafoIos@main/docs/legal/terms-of-use.md`
 - Support URL：待上架主体确认。
 - Contact Email：待上架主体确认。
